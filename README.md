@@ -2,6 +2,8 @@
 
 ## PNG to PDF
 
+指定されたディレクトリ配下にある全てのPNGをPDFに変換します．
+
 ```sh
 toolbox on  main [✘?]
 ❯ dotnet fsi .\png2pdf.fsx D:\tmp\figs
@@ -13,7 +15,7 @@ D:\tmp\figs\out_pdf\experiment_02\fig_ex02_b.pdf
 ```
 
 <p align="center">
-  <img
+  <img 
     width=300 
     src="https://github.com/RyushiAok/toolbox/assets/55625375/a4c05e2f-a40d-40e1-b93c-447f0dee4571"
   />
